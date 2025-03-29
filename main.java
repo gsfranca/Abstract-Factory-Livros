@@ -1,3 +1,8 @@
+// Giovana Santos de França
+// Marcela Aparecida de Almeida
+// Raissa Santos Ramos
+// Nair Santos de Rousa
+
 // 1. Interface Abstract Factory
 // Aqui estamos criando uma interface chamada 'LivroFactory'. Ela define os métodos essenciais para a criação de três tipos de livros: físico, digital e audiobook. 
 // Cada fábrica concreta vai implementar esses métodos para criar livros de diferentes tipos.
